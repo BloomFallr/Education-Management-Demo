@@ -1,0 +1,1 @@
+import{w as t}from"./request-BnFEnbez.js";const o=({username:e,password:a})=>t.post("/tea/login",{username:e,password:a}),r=e=>t.get("/tea/cur/taught-list/"+e),c=e=>t.put("/tea/grade",e),i=e=>t.get("/tea/cur/enrollment/"+e),n=e=>t.get("/tea/info/"+e),u=e=>t.put("/tea/password",e),g=e=>t.put("/tea/cur/finish/"+e);export{i as a,c as b,r as c,g as d,n as e,u as f,o as t};
