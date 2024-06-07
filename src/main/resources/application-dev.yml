@@ -1,0 +1,7 @@
+sscs:
+  sky:
+    datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/sscs
+      username: root
+      password: sakurajima
